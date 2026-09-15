@@ -51,13 +51,13 @@ a {
 }
 
 .logo {
-  width: 44px;
-  height: 44px;
-  display: grid;
-  place-items: center;
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  font-weight: 800;
+  color: #e10600;
+  font-size: 36px;
+  font-weight: 900;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+  letter-spacing: -3px;
+  text-shadow: 0 0 12px rgba(225, 6, 0, 0.3);
 }
 
 .nav-links {
